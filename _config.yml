@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ramaguru Radhakrishnan"
 title_separator          : "-"
 name                     : &name "Ramaguru Radhakrishnan"
-description              : &description "Assistant Professor at Amrita Vishwa Vidyapeetham <br/> Founder and Lead Researcher at NamChain Open Initiative Research Lab"
+description              : &description "Assistant Professor at Amrita Vishwa Vidyapeetham | Founder and Lead Researcher at NamChain Open Initiative Research Lab"
 url                      : https://ramagururadhakrishnan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Ramaguru Radhakrishnan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Assistant Professor at Amrita Vishwa Vidyapeetham | Founder and Lead Researcher at NamChain Open Initiative Research Lab"
   location         : "Coimbatore, India"
   employer         : "Amrita Vishwa Vidyapeetham"
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-DjvKqgAAAAJ"
-  email            : "ramaguru.90[at]gmail[dot]com
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "ramaguru.90[at]gmail[dot]com"
+  researchgate     :  "https://www.researchgate.net/profile/Ramaguru-Radhakrishnan"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           :  "https://github.com/ramagururadhakrishnan"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-9508-5902"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
