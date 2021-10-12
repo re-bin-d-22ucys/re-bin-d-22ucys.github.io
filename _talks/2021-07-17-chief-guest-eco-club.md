@@ -1,5 +1,5 @@
 ---
-title: "	Inaugural of Eco-Friendly Earth, Eco Club"
+title: "Inaugural of Eco-Friendly Earth, Eco Club"
 collection: talks
 type: "Chief Guest"
 permalink: /talks/2021-07-17-chief-guest-eco-club
