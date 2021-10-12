@@ -11,30 +11,61 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Blockchain Technology, Amrita Vishwa Vidyapeetham (2021 - 2025)
+* M.Tech in Cyber Security, Amrita Vishwa Vidyapeetham (2017 - 2019)
+* B.Tech in Information Technology, Kumaraguru College of Technology (2007 - 2011)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sept, 2015 - Present: Assistant Professor
+  * Amrita Vishwa Vidyapeetham, Coimbatore
+  * Supervisor: Prof. M.Sethumadhavan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan, 2020 - Sept, 2021: Research Associate
+  * Amrita Vishwa Vidyapeetham, Coimbatore
+  * Duties included: R&D on Blockchain Technology & Cryptocurrency
+  * Supervisor: Prof. M.Sethumadhavan
+
+* Jul, 2019 - Dec, 2020: Lead Blockchain Engineer
+  * Ensurity Technologies, Hyderabad
+  * Duties included: R&D on Blockchain Technology & Cryptocurrency
+  * Supervisor: Mr. Chakradhar Kommera Reddy
+
+* May, 2016 - Aug, 2016: Senior Software Engineer
+  * Global Edge Solutions Ltd (Harman International), Bengaluru
+  * Duties included: System Testing of Automotive Infotainment Units
+
+* Jul, 2011 - Dec, 2015: Senior Software Engineer (Joined as Associate Software Engineer)
+  * Robert Bosch Engineering and Business Solutions Private Ltd, Coimbatore
+  * Duties included: System Testing of Automotive Infotainment Units
+  * Supervisor(s): Mr. Viswanth R, Mr. Kilikannan S, Mr. Senthil G, Ms. Anjana R, Ms. Kavitha R
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * C
+  * C++
+  * Java
+  * Python
+  * TML
+  * Solidity
+  * PHP
+  * Javascript
+* Software Engineering
+  * Software Design
+  * Reviews
+  * System Testing
+  * Test Automation
+* Cyber Security
+  * Cyber Crime Investigation
+  * Cyber Forensics
+  * OSINT
+  * VAPT
+ * Blockchain Technology
+  * Cryptocurrency
+  * Bitcoin
+  * Ethereum
+  * DApp Development
 
 Publications
 ======
@@ -54,6 +85,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+
