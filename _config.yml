@@ -14,7 +14,7 @@ description              : &description "Assistant Professor at Amrita Vishwa Vi
 url                      : https://ramagururadhakrishnan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ramaguru Radhakrishnan"
-  avatar           : "profile.png"
+  avatar           : "Ramaguru_Radhakrishnan_Image.png"
   bio              : "Assistant Professor at Amrita Vishwa Vidyapeetham | Founder and Lead Researcher at NamChain Open Initiative Research Lab"
   location         : "Coimbatore, India"
   employer         : "Amrita Vishwa Vidyapeetham"
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-9508-5902"
+  orcid            :  "https://orcid.org/0000-0002-9508-5902"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
