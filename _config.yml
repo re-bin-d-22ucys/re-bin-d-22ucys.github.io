@@ -85,36 +85,32 @@ author:
   bio              : "Assistant Professor at Amrita Vishwa Vidyapeetham | Founder and Lead Researcher at NamChain Open Initiative Research Lab"
   location         : "Coimbatore, India"
   employer         : "Amrita Vishwa Vidyapeetham"
-  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-DjvKqgAAAAJ"
   email            : "ramaguru.90[at]gmail[dot]com"
-  researchgate     :  "https://www.researchgate.net/profile/Ramaguru-Radhakrishnan"
+  researchgate     : "https://www.researchgate.net/profile/Ramaguru-Radhakrishnan"
   uri              :
-  bitbucket        :  "https://bitbucket.org/ramagururadhakrishnan"
-  codepen          :
+  bitbucket        : "ramagururadhakrishnan"
+  codepen          : "ramagururadhakrishnan"
   dribbble         :
   flickr           :
-  facebook         :
   foursquare       :
-  github           :  "https://github.com/ramagururadhakrishnan"
-  growkudos        :  "https://www.growkudos.com/profile/ramaguru_radhakrishnan"
-  keybase          :  "https://keybase.io/ramagurur"
+  github           : "ramagururadhakrishnan"
+  growkudos        : "https://www.growkudos.com/profile/ramaguru_radhakrishnan"
+  keybase          : "ramagurur"
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :  "https://www.linkedin.com/in/ramaguru-radhakrishnan"
-  orcid            :  "https://orcid.org/0000-0002-9508-5902"
+  linkedin         : "ramaguru-radhakrishnan"
+  orcid            : "https://orcid.org/0000-0002-9508-5902"
   pinterest        :
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57196477231"   
-  soundcloud       :
-  stackoverflow    :  "https://stackoverflow.com/users/17151586/ramaguru-radhakrishnan"
+  soundcloud       : 
+  stackoverflow    : "17151586/ramaguru-radhakrishnan"
   steam            :
   tumblr           :
   twitter          : 
-  vine             :
-  weibo            :
-  xing             : "https://www.xing.com/profile/Ramaguru_Radhakrishnan"
-  youtube          :
+  xing             : "Ramaguru_Radhakrishnan"
+  youtube          : "https://www.youtube.com/c/RamaguruRadhakrishnan/"
   wikipedia        :
 
 
@@ -245,6 +241,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+   # _startup
+  - scope:
+      path: ""
+      type: startup
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+
 
 # Sass/SCSS
 sass:
