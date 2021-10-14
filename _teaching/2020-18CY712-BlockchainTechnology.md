@@ -1,9 +1,9 @@
 ---
 title: "18CY712 - Blockchain Technology"
 collection: teaching
-type: "Postgraduate Course"
+type: "Postgraduate Course - M.Tech CYS"
 permalink: /teaching/2020-18CY712-BlockchainTechnology
-venue: "Amrita School of Engineering, TIFAC-CORE in Cyber Security"
-date: July-Dec, 2020
+venue: "TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham"
+date: Jul-Dec, 2020
 location: "Coimbatore, India"
 ---
