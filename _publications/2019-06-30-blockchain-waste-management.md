@@ -13,4 +13,3 @@ immutability through cryptographically secure and distributed ledger method, inc
 
 [Download paper here](https://www.ijeat.org/wp-content/uploads/papers/v8i5/E7828068519.pdf)
 
-Recommended citation: Gopalakrishnan, Preethi, and R. Ramaguru. "Blockchain based waste management." International Journal of Engineering and Advanced Technology 8.5 (2019): 2632-2635.
