@@ -11,17 +11,28 @@ redirect_from:
 
 Education
 ======
-* **Ph.D in Blockchain Technology, Amrita Vishwa Vidyapeetham (2021 - 2025)**
-* M.Tech in Cyber Security, Amrita Vishwa Vidyapeetham (2017 - 2019)
-* B.Tech in Information Technology, Kumaraguru College of Technology (2007 - 2011)
-
-Teaching Work experience
-======
-* Sep, 2015 - Present: Assistant Professor
+* **Sep, 2021 - Sep, 2025: Doctoral Research**
   * Amrita Vishwa Vidyapeetham, Coimbatore
-  * Supervisor: Prof. M.Sethumadhavan
+  * Area: Blockchain Technology
+  * Thesis Advisor: Prof. M. Sethumadhavan
+* Jul, 2017 - May, 2019: M.Tech in Cyber Security
+  * Amrita Vishwa Vidyapeetham, Coimbatore
+  * Thesis Advisor: Dr. M. Sindu
+  * Thesis: Blockchain for the Internet of Vehicles
+* Aug, 2007 - Apr, 2011: B.Tech in Information Technology
+  * Kumaraguru College of Technology, Coimbatore
+  * Project Advisor: Dr. N. Suganthi
+  * Project: An Efficient Key Management in Mobile AdHoc Network (MANET) using Mobile Agents
+  * Team Member: Vignesh GM
 
-Research Work experience
+
+Teaching Work Experience
+======
+* Sep, 2021 - Present: Assistant Professor
+  * Amrita Vishwa Vidyapeetham, Coimbatore
+  * Supervisor: Prof. M. Sethumadhavan
+
+Research Work Experience
 ======
 * Oct, 2018 - Present : Founder & Lead Researcher
   * NamChain Open Initiative Research Lab, Coimbatore
@@ -30,9 +41,9 @@ Research Work experience
 * Jan, 2020 - Sep, 2021: Research Associate
   * Amrita Vishwa Vidyapeetham, Coimbatore
   * Duties included: R&D on Blockchain Technology & Cryptocurrency
-  * Supervisor: Prof. M.Sethumadhavan
+  * Supervisor: Prof. M. Sethumadhavan
 
-Industry Work experience
+Industry Work Experience
 ======
 * Jul, 2019 - Dec, 2020: Lead Blockchain Engineer
   * Ensurity Technologies, Hyderabad
@@ -47,7 +58,7 @@ Industry Work experience
 * Jul, 2011 - Dec, 2015: Senior Software Engineer (Joined as Associate Software Engineer)
   * Robert Bosch Engineering and Business Solutions Private Ltd, Coimbatore
   * Duties included: System Testing of Automotive Infotainment Units
-  * Supervisor(s): Mr. Viswanth R, Mr. Kilikannan S, Mr. Senthil G, Ms. Anjana R, Ms. Kavitha R
+  * Supervisor(s): Mr. Viswanth R, Mr. Kilikannan S, Mr. Senthil G, Ms. Anjana R, Ms. Kavitha R and Mr. Jagadeesan D
   
 Skills
 ======
