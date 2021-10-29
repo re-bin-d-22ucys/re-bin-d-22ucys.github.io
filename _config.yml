@@ -88,24 +88,22 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=-DjvKqgAAAAJ"
   email            : "ramaguru.90[at]gmail[dot]com"
   researchgate     : "https://www.researchgate.net/profile/Ramaguru-Radhakrishnan"
-  uri              :
   bitbucket        : "ramagururadhakrishnan"
   codepen          : "ramagururadhakrishnan"
   github           : "ramagururadhakrishnan"
   growkudos        : "https://www.growkudos.com/profile/ramaguru_radhakrishnan"
   keybase          : "ramagurur"
-  instagram        : "ramagururadhakrishnan"
+  instagram        : #"ramagururadhakrishnan"
   impactstory      : "https://profiles.impactstory.org/u/0000-0002-9508-5902"
   linkedin         : "ramaguru-radhakrishnan"
   orcid            : "https://orcid.org/0000-0002-9508-5902"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57210210467"   
-  soundcloud       : "ramaguru-radhakrishnan"
+  soundcloud       : #"ramaguru-radhakrishnan"
   stackoverflow    : "17151586/ramaguru-radhakrishnan"
-  twitter          : "Ramaguru"
+  twitter          : #"Ramaguru"
   xing             : "Ramaguru_Radhakrishnan"
-  youtube          : "https://www.youtube.com/c/RamaguruRadhakrishnan/"
+  youtube          : #"https://www.youtube.com/c/RamaguruRadhakrishnan/"
   wikipedia        :
-
 
 # Reading Files
 include:
@@ -142,14 +140,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -161,7 +157,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
 
 # Collections
 collections:
@@ -177,7 +172,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -243,19 +237,16 @@ defaults:
       author_profile: true
       share: true
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
 
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 
 # Plugins
 plugins:
@@ -271,7 +262,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
 
 # Archives
 #  Type
