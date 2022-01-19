@@ -85,6 +85,7 @@ author:
   bio              : "Assistant Professor at Amrita Vishwa Vidyapeetham | Founder and Lead Researcher at நம்Chain Open Initiative Research Lab"
   location         : "Coimbatore, India"
   employer         : "Amrita Vishwa Vidyapeetham"
+  home             : "https://amrita.edu/faculty/ramaguru-radhakrishnan/"
   googlescholar    : "https://scholar.google.com/citations?user=-DjvKqgAAAAJ"
   email            : "ramaguru.90[at]gmail[dot]com"
   researchgate     : "https://www.researchgate.net/profile/Ramaguru-Radhakrishnan"
@@ -233,7 +234,7 @@ defaults:
       path: ""
       type: startup
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
