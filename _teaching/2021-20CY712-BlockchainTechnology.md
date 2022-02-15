@@ -1,7 +1,7 @@
 ---
 title: "20CY712 - Blockchain Technology"
 collection: teaching
-type: "Postgraduate Course - M.Tech CYS"
+type: "Postgraduate Course - M.Tech CYS [3rd Sem]"
 permalink: /teaching/2021-20CY712-BlockchainTechnology
 venue: "TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham"
 date: Aug-Dec, 2021
@@ -27,13 +27,13 @@ Additional Courses Completed:
 
 Projects: 
 -------------
-- Gandavaram Anuhya 
-- P. Gnanendra Prasad 
-- Gokul G
-- Penumallu Abhiram Reddy
-- Sreelakshmi Girisan
-- Sreelakshmi Tv
-- Thummala Tejasree 
+- [Gandavaram Anuhya]()
+- [P. Gnanendra Prasad]() 
+- [Gokul G]()
+- [Penumallu Abhiram Reddy]()
+- [Sreelakshmi Girisan]()
+- [Sreelakshmi Tv]()
+- [Thummala Tejasree]()
 
 Number of Papers Published : 0 <br/>
 
