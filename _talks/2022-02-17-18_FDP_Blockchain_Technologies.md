@@ -9,3 +9,6 @@ topics: Blockchain Platforms & Research Challenges in Blockchain Technology
 location: "Online"
 ---
 
+**Organised by:** Dept. of Information Technology, Eswari College of Engineering, Chennai <br/>
+**Represented:** Amrita Vishwa Vidyapeetham, Coimbatore <br/>
+
