@@ -11,3 +11,7 @@ location: "Online"
 
 **Organised by:** Directorate Of Admissions and Academic Outreach, Amrita Vishwa Vidyapeetham, Coimbatore <br/>
 **Link:** [YouTube](https://youtu.be/lwzVDFfZ9H8)
+
+<p align="center">
+<img src="../images/Webinar_Blockchain_Applications_for_Common_Man.jpg" width="800" />
+</p>
