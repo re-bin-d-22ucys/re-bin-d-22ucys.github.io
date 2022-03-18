@@ -9,4 +9,4 @@ location: "Coimbatore, India"
 ---
 
 **Type :** Lab ONLY <br/>
-**No of Students :** 88
+**Number of Students :** 88
