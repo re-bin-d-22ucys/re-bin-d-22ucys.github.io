@@ -7,16 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Ramaguru Radhakrishnan currently working as Assistant Professor at Amrita Vishwa Vidyapeetham, Coimbatore. He is also the Founder of நம்Chain Open Initiative Research Lab, Coimbatore. He is currently pursuing is Doctoral Research in Blockchain Technology from Amrita Vishwa Vidyapeetham, Coimbatore.
+Ramaguru Radhakrishnan is working as an Assistant Professor at Amrita School of Computing, Amrita Vishwa Vidyapeetham, Coimbatore. He is pursuing his Doctoral Research in Blockchain Technology from Amrita Vishwa Vidyapeetham. He is also the Founder of நம்Chain Open Initiative Research Lab, Coimbatore. 
 
-Ramaguru Radhakrishnan native of Coimbatore completed his Bachelors from Kumaraguru College of Technology in Information Technology in the year 2011. He worked for Robert Bosch Engineering and Business Solutions Private Ltd, Coimbatore as Senior Software Engineer in the area of System Testing and Test Automation for Automotive Infotainment Units. He also served in the same role at Harman International, Bengaluru for a shorter duration. 
+Ramaguru Radhakrishnan, a native of Coimbatore, completed his Bachelor's from Kumaraguru College of Technology in Information Technology in 2011. He worked for Robert Bosch Engineering and Business Solutions Private Ltd, Coimbatore as a Senior Software Engineer in System Testing and Test Automation for Automotive Infotainment Units. He also served in the same role at Harman International, Bengaluru, for a shorter duration.
 
-Due to his interest towards Research and Teaching, he started Aksharam Training Academy and started his full time Masters in Cyber Security at Amrita Vishwa Vidyapeetham, Coimbatore. Post completion of the course he worked as Lead Blockchain Engineer at Ensurity Technologies, Hyderabad. 
+Due to his interest in Research and Teaching, he started Aksharam Training Academy and started his full-time Master’s in Cyber Security at Amrita Vishwa Vidyapeetham, Coimbatore, in 2017. After completing the course, he worked as Lead Blockchain Engineer at Ensurity Technologies Private Ltd, Hyderabad in development of In-House Blockchain Framework.
 
-Ramaguru joined Amrita as a Research Associate in Jan, 2020 to work on Blockchain Technology and Cryptocurrency.
+Ramaguru joined Amrita Vishwa Vidyapeetham as a Research Associate in Jan 2020 to work on Blockchain Technology and Cryptocurrency and later joined as Assistant Professor in Sept 2021.
 
-Ramaguru has been working in varied areas including Education, Health Financial Support, Waste Management, Right To Information Act, Recycling and more. To share his knowledge and spread awareness on these areas he started various initiatives namely Kanavu Public Charitable Trust, Kuppai, Gandhimani Numismatics and Philately Club (GNPC), Payanam. 
+Ramaguru has been working in varied areas, including Education, Health Care Financial Support, Waste Management, the Right to Information Act, Recycling, and more. To share his knowledge and spread awareness in these areas, he started various initiatives: Kanavu Public Charitable Trust, Kuppai, Gandhimani Numismatics and Philately Club (GNPC), and Payanam.
 
 Areas of Interest
 ------
-Blockchain Technology, Cryptocurrency, Numismatics, Forensics, Cyber Crime Investigation, Cyber Awareness, Philately, System Testing, Automotive Cyber Security, Ancient Scriptures, Religious Studies, Waste Management and Cyber Psychology.
+Blockchain Technology, Cryptocurrency, Forensics, Cyber Crime Investigation, Cyber Awareness, System Testing, Automotive Cyber Security, Numismatics & Philately, Ancient Scriptures, Religious Studies, Waste Management, Metaverse & Social Media and Cyber Psychology.
