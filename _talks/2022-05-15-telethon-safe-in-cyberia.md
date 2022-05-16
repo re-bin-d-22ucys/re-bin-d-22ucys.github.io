@@ -11,6 +11,10 @@ location: "NDTV, India"
 **Campaign by:** Amrita Vishwa Vidyapeetham & NDTV <br/>
 **Represented:** Amrita Vishwa Vidyapeetham <br/>
 
+<p align="center">
+  <img src="/images/safe-in-cyberia.png" width="1000"/>
+</p>
+
 **Link:** [YouTube](https://youtu.be/lwzVDFfZ9H8) <br/>
 **Campaign Link:** [Safe in Cyberia](https://special.ndtv.com/safe-in-cyberia-99/live-blog)
 
@@ -24,6 +28,5 @@ Remember this word '**AMMA**':
 **A - Anonymity** : a lot of problems in the world is because of anonymity and we should teach them that nothing is anonymous <br/>
 
 <p align="center">
-  <img src="/images/safe-in-cyberia.png" width="1000"/>
+  <img src="/images/Safe_in_Cyberia_Quote.png" width="900"/>
 </p>
-
