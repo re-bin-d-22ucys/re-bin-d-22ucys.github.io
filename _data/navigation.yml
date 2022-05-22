@@ -10,7 +10,10 @@ main:
     url: /teaching/    
     
   - title: "Startups & Initiatives"
-    url: /startup/
+    url: /startups/
+    
+  - title: "Awards & Certifications"
+    url: /certifications/  
     
   - title: "CV"
     url: /cv/
