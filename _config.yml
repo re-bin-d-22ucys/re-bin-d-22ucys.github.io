@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &ramaguru
 facebook:
   username               :
   app_id                 :
@@ -243,10 +243,10 @@ defaults:
       layout: single
       author_profile: true
       share: true
-   # _startup
+   # _startups
   - scope:
       path: ""
-      type: startup
+      type: startups
     values:
       layout: single
       author_profile: true
