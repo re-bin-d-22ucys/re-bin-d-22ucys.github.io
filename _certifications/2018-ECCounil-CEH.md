@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "EC-Council - Certified Ethical Hacker"
 collection: certifications
 type: "Technical - Cyber Security"
 permalink: /certifications/2018-ECCounil-CEH
