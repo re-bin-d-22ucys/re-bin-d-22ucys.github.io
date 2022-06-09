@@ -2,10 +2,10 @@
 title: "Workshop on Blockchain Technology and Cyber Security Standards"
 collection: talks
 type: "Workshop"
-permalink: /talks/2022-06-08-10_Workshop_Blockchain_Technology_and_Cyber_Security_Standards.md
+permalink: /talks/2022-06-08-10_Workshop_Blockchain_Technology_and_Cyber_Security_Standards
 venue: "Sri Krishna College of Engineering and Technology"
 date: 2022-06-08 - 2022-06-10
-location: "Sri Krishna College of Engineering and Technology"
+location: "Coimbatore"
 ---
 
 **Organised by:** Dept. of Information Technology, Sri Krishna College of Engineering and Technology, Coimbatore <br/>
