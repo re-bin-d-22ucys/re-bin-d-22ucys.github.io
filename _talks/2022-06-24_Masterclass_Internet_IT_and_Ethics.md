@@ -9,3 +9,7 @@ location: "Online"
 ---
 
 **Organised by:** EduDevs, Haryana and Amrita Vishwa Vidyapeetham, Coimbatore <br/>
+
+<p align="center">
+  <img src="../images/STEM@NEP.jpg" width="700">
+</p>
