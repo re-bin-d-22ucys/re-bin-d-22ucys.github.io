@@ -2,7 +2,7 @@
 title: "FDP on Data Protection and Privacy"
 collection: talks
 type: "FDP"
-permalink: /talks/2022-10-13_FDP_Data_Protection_and_Privacy.md
+permalink: /talks/2022-10-13_FDP_Data_Protection_and_Privacy
 venue: "Online"
 date: 2022-10-13
 topics: Data Security with Industrial Espionage and Data Protection Standards
