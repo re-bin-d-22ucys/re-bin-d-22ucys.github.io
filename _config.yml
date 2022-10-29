@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ramaguru Radhakrishnan"
 title_separator          : "-"
 name                     : &name "Ramaguru Radhakrishnan"
-description              : &description "Assistant Professor at Amrita Vishwa Vidyapeetham | Founder and Lead Researcher at நம்Chain Open Initiative Research Lab"
+description              : &description "Assistant Professor at Amrita Vishwa Vidyapeetham | Founder and Lead Researcher at நம்Chain® Open Initiative Research Lab"
 url                      : https://ramagururadhakrishnan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -18,8 +18,8 @@ teaser                   :
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : true #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ramaguru Radhakrishnan"
   avatar           : "Ramaguru_Radhakrishnan_Image.png"
-  bio              : "Assistant Professor at Amrita Vishwa Vidyapeetham | Founder and Lead Researcher at நம்Chain Open Initiative Research Lab"
+  bio              : "Assistant Professor at Amrita Vishwa Vidyapeetham | Founder and Lead Researcher at நம்Chain® Open Initiative Research Lab"
   location         : "Coimbatore, India"
   employer         : "Amrita Vishwa Vidyapeetham"
   home             : "https://amrita.edu/faculty/ramaguru-radhakrishnan/"
@@ -248,7 +248,7 @@ defaults:
       path: ""
       type: startups
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
 
