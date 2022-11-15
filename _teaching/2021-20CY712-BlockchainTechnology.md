@@ -12,7 +12,7 @@ location: "Coimbatore, India"
 **Number of Completed Mini-projects :** 1 <br/>
 ![](https://img.shields.io/badge/Course_Outcome_Attainment-3-blue) 
 ![](https://img.shields.io/badge/Average_Marks-66.86-blue) 
-![](https://img.shields.io/badge/Course_Feedback-100-blue) 
+![](https://img.shields.io/badge/Course_Feedback-97.14-blue) 
 
 Additional Courses Completed:
 --------------------
