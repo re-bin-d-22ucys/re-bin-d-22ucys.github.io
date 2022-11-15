@@ -7,12 +7,12 @@ venue: "TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishw
 date: Jul-Dec, 2020
 location: "Coimbatore, India"
 ---
-![](https://img.shields.io/badge/Course_Outcome_Attainment-3-blue) 
-![](https://img.shields.io/badge/Average_Marks-82.67-blue) 
-![](https://img.shields.io/badge/Course_Feedback-100-blue) 
 
 **Number of Students :** 3 <br/>
 **Number of Completed Mini-projects :** 3 <br/>
+![](https://img.shields.io/badge/Course_Outcome_Attainment-3-blue) 
+![](https://img.shields.io/badge/Average_Marks-82.67-blue) 
+![](https://img.shields.io/badge/Course_Feedback-100-blue) 
 
 Projects: 
 -------------
