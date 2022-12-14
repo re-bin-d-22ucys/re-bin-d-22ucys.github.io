@@ -9,6 +9,9 @@ location: "Coimbatore, India"
 ---
 
 **Number of Students :** 8 <br/>
+![](https://img.shields.io/badge/Course_Outcome_Attainment-TBD-blue) 
+![](https://img.shields.io/badge/Average_Marks-TBD-blue) 
+![](https://img.shields.io/badge/Course_Feedback-TBD-blue) 
 
 Projects: 
 -------------
