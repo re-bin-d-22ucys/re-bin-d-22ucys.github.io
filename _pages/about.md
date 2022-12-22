@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Ramaguru Radhakrishnan is working as an Assistant Professor at Amrita School of Computing, Amrita Vishwa Vidyapeetham, Coimbatore. He is pursuing his Doctoral Research in Blockchain Technology from Amrita Vishwa Vidyapeetham. He is also the Founder of நம்Chain Open Initiative Research Lab, Coimbatore. 
+Ramaguru Radhakrishnan is working as an Assistant Professor at TIFAC-CORE in Cyber Security, Amrita Vishwa Vidyapeetham, Coimbatore. He is pursuing his Doctoral Research in _Formal Methods for Blockchain Technology_ from Amrita Vishwa Vidyapeetham. He is also the Founder of நம்Chain Open Initiative Research Lab, Coimbatore. 
 
-Ramaguru Radhakrishnan, a native of Coimbatore, completed his Bachelor's from Kumaraguru College of Technology in Information Technology in 2011. He worked for Robert Bosch Engineering and Business Solutions Private Ltd, Coimbatore as a Senior Software Engineer in System Testing and Test Automation for Automotive Infotainment Units. He also served in the same role at Harman International, Bengaluru, for a shorter duration.
+Ramaguru Radhakrishnan, a native of Mettupalayam, Coimbatore, completed his Bachelor's in Technology (B.Tech) from Kumaraguru College of Technology in Information Technology in 2011. He worked for Robert Bosch Engineering and Business Solutions Private Ltd, Coimbatore starting as Associate Software Engineer to Senior Software Engineer in System Testing and Test Automation for Automotive Infotainment Units. He also served in the same role at Harman International, Bengaluru, for a shorter duration.
 
-Due to his interest in Research and Teaching, he started Aksharam Training Academy and started his full-time Master’s in Cyber Security at Amrita Vishwa Vidyapeetham, Coimbatore, in 2017. After completing the course, he worked as Lead Blockchain Engineer at Ensurity Technologies Private Ltd, Hyderabad in development of In-House Blockchain Framework.
+Due to his interest in Research and Teaching, he started Aksharam Training Academy and started his full-time Master’s in Cyber Security at Amrita Vishwa Vidyapeetham, Coimbatore, in 2017. After completing the course, he worked as Lead Blockchain Engineer at Ensurity Technologies Private Ltd, Hyderabad in development of In-House Blockchain Framework called CoEqual.
 
 Ramaguru joined Amrita Vishwa Vidyapeetham as a Research Associate in Jan 2020 to work on Blockchain Technology and Cryptocurrency and later joined as Assistant Professor in Sept 2021.
 
@@ -19,4 +19,4 @@ Ramaguru has been working in varied areas, including Education, Health Care Fina
 
 Areas of Interest
 ------
-Blockchain Technology, Cryptocurrency, Forensics, Cyber Crime Investigation, Cyber Awareness, System Testing, Automotive Cyber Security, Numismatics & Philately, Ancient Scriptures, Religious Studies, Waste Management, Metaverse & Social Media and Cyber Psychology.
+Blockchain Technology, Cryptocurrency, Cyber Psychology, Cyber Forensics, Cyber Crime Investigation, Cyber Awareness, System Testing, Automotive Cyber Security, Numismatics & Philately, Ancient Scriptures, Religious Studies, Waste Management, Metaverse and Social Media Analytics.
