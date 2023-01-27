@@ -87,7 +87,7 @@ author:
   employer         : "Amrita Vishwa Vidyapeetham"
   home             : "https://amrita.edu/faculty/ramaguru-radhakrishnan/"
   googlescholar    : "https://scholar.google.com/citations?user=-DjvKqgAAAAJ"
-  email            : "ramaguru.90[at]gmail[dot]com"
+  email            : #"ramaguru.90[at]gmail[dot]com"
   researchgate     : "https://www.researchgate.net/profile/Ramaguru-Radhakrishnan"
   bitbucket        : "ramagururadhakrishnan"
   codepen          : "ramagururadhakrishnan"
@@ -173,6 +173,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
   certifications:
     output: true
     permalink: /:collection/:path/
@@ -247,6 +250,14 @@ defaults:
   - scope:
       path: ""
       type: startups
+    values:
+      layout: single
+      author_profile: true
+      share: true  
+   # _projects
+  - scope:
+      path: ""
+      type: projects
     values:
       layout: single
       author_profile: true
