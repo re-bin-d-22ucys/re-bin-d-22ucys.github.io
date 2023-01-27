@@ -7,10 +7,13 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
     
   - title: "Startups & Initiatives"
     url: /startups/
+    
+   - title: "Projects"
+    url: /projects/
     
   - title: "Awards & Certifications"
     url: /certifications/  
