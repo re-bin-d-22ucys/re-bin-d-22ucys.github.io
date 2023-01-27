@@ -4,6 +4,7 @@ collection: projects
 type: "Projects"
 permalink: /projects/2020-CupCoin
 type: "Projects"
-date:2020
+date: 2020
 ---
-type: "Kuppai Innovative Lab and NamChain Open Initiative Research Lab"
+
+**Project for:** "Kuppai Innovative Lab and NamChain Open Initiative Research Lab"
