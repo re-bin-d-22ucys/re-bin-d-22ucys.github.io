@@ -8,8 +8,8 @@ date: Sept-Dec, 2022
 location: "Coimbatore, India"
 ---
 
-**Number of Students :** 86 <br/>
-**Number of Completed Mini-projects :** TBD <br/>
+![](https://img.shields.io/badge/Students-86-blue) 
+![](https://img.shields.io/badge/Mini--Projects_Completed-86-blue) <br/>
 ![](https://img.shields.io/badge/Course_Outcome_Attainment-TBD-blue) 
 ![](https://img.shields.io/badge/Average_Marks-TBD-blue) 
 ![](https://img.shields.io/badge/Course_Feedback-TBD-blue) 
