@@ -9,7 +9,7 @@ location: "Coimbatore, India"
 ---
 
 ![](https://img.shields.io/badge/Students-7-blue) 
-![](https://img.shields.io/badge/Mini--Projects_Completed-1-blue) 
+![](https://img.shields.io/badge/Mini--Projects_Completed-1-blue) <br/>
 ![](https://img.shields.io/badge/Course_Outcome_Attainment-3-blue) 
 ![](https://img.shields.io/badge/Average_Marks-66.86-blue) 
 ![](https://img.shields.io/badge/Course_Feedback-97.14-blue) 
