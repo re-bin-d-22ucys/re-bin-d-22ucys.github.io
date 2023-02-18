@@ -8,5 +8,6 @@ date: Sep, 2021 - Jan, 2022
 location: "Coimbatore, India"
 ---
 
-**Type :** Lab ONLY <br/>
-**Number of Students :** 88
+![](https://img.shields.io/badge/-LAB_Only-black) 
+![](https://img.shields.io/badge/Students-88-blue) 
+
