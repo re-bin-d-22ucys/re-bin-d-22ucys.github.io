@@ -3,7 +3,6 @@ title: "CupCoin"
 collection: projects
 type: "Projects"
 permalink: /projects/2020-CupCoin
-type: "Projects"
 date: 2020
 ---
 
