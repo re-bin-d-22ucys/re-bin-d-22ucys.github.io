@@ -8,4 +8,5 @@ date: Sept-Dec, 2022
 location: "Coimbatore, India"
 ---
 
-**Number of Students :** 86 <br/>
+![](https://img.shields.io/badge/-LAB_Only-black) 
+![](https://img.shields.io/badge/Students-86-blue) 
