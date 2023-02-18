@@ -8,8 +8,9 @@ date: Jul-Dec, 2020
 location: "Coimbatore, India"
 ---
 
-**Number of Students :** 3 <br/>
-**Number of Completed Mini-projects :** 3 <br/>
+![](https://img.shields.io/badge/Students-3-blue) 
+![](https://img.shields.io/badge/Mini--Projects_Completed-3-blue)
+![](https://img.shields.io/badge/Publications-3-blue) <br/>
 ![](https://img.shields.io/badge/Course_Outcome_Attainment-3-blue) 
 ![](https://img.shields.io/badge/Average_Marks-82.67-blue) 
 ![](https://img.shields.io/badge/Course_Feedback-100-blue) 
