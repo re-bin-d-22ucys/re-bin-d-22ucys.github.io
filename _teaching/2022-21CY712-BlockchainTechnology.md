@@ -10,7 +10,7 @@ location: "Coimbatore, India"
 
 ![](https://img.shields.io/badge/Students-8-blue) <br/> 
 ![](https://img.shields.io/badge/Course_Outcome_Attainment-TBD-blue) 
-![](https://img.shields.io/badge/Average_Marks-TBD-blue) 
+![](https://img.shields.io/badge/Average_Marks-57.62-blue) 
 ![](https://img.shields.io/badge/Course_Feedback-TBD-blue) 
 
 Additional Courses Completed:
