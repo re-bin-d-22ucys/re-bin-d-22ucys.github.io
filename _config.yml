@@ -263,6 +263,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+    # _organiser
+  - scope:
+      path: ""
+      type: organiser
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
    # _contact
   - scope:
       path: ""
