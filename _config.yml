@@ -176,6 +176,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  organiser:
+    output: true
+    permalink: /:collection/:path/
   certifications:
     output: true
     permalink: /:collection/:path/
