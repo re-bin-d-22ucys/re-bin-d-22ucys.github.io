@@ -21,6 +21,7 @@ Areas of Interest
 ------
 Blockchain Technology, Cryptocurrency, Cyber Psychology, Cyber Forensics, Cyber Crime Investigation, Cyber Awareness, System Testing, Automotive Cyber Security, Numismatics & Philately, Ancient Scriptures, Religious Studies, Waste Management, Metaverse and Social Media Analytics.
 
-
+Climate Clock - Act Now
+------
 <script src="https://climateclock.world/widget-v2.js" async></script>
 <climate-clock />
