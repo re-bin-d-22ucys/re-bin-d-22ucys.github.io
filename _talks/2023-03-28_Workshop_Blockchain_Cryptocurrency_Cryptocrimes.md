@@ -13,5 +13,5 @@ location: "Sree Saraswathi Thyagaraja College, Pollachi"
 **Represented:** Amrita Vishwa Vidyapeetham, Coimbatore <br/>
 
 <p align="center">
-   <img src="https://github.com/ramagururadhakrishnan/ramagururadhakrishnan.github.io/blob/master/images/BCCCI.png" width="900" />
+   <img src="https://github.com/ramagururadhakrishnan/ramagururadhakrishnan.github.io/blob/master/images/BCCCI.jpg" width="900" />
 </p>
