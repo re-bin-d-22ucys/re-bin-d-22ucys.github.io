@@ -43,7 +43,8 @@ Education
     * San Jose Matriculation Higher Secondary School, Mettupalayam 
     * Percentage: 91.75%
     * Responsibilities:
-      * 2006 - 2007 : House Captain, Daffodils
+      * 2005 - 2006 : House Captain, Daffodils
+      * 2005 - 2006 : President - San Jose Consumer Club
     
  * _**Jun, 1995 - Mar, 2007: Secondary**_
     * San Jose Matriculation Higher Secondary School, Mettupalayam 
@@ -56,6 +57,16 @@ Teaching Work Experience
 * **Sep, 2021 - Present: Assistant Professor**
   * TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore
   * Supervisor: Prof. M. Sethumadhavan
+  * Responsibilities:
+      * 2023 - Present : Mentor - Anokha Web, Multimedia and Documentation Team
+      * 2022 - Present : Class Advisor - 22CYS B.Tech
+      * 2022 - Present : Faculty Advisor - WiCyS Amrita Student Chapter
+      * 2022 - Present : Faculty Coordinator - Kerala Blockchain Academy Innovation Club
+      * 2022 - Present : Founder and Mentor - Blockchain-Research Interest Group
+      * 2022 - Present : Founder and Mentor - KOLECT 
+      * 2022 - Present : Faculty Mentor - CybeReach
+      * 2022 : Dept. Election Coordinator
+      * 2022 : Gokulashtami Coordinator
 
 Research Work Experience
 ======
