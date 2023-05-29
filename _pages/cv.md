@@ -12,14 +12,14 @@ redirect_from:
 Education
 ======
 * **Sep, 2021 - Sep, 2025: Doctoral Research**
-  * TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore
+  * TIFAC-CORE in Cyber Security, Amrita Vishwa Vidyapeetham, Coimbatore
   * CGPA: 9.69/10
   * Area: Formal Verification of Smart Contracts in Blockchain Technology
   * Thesis Advisor: Prof. M. Sethumadhavan
   * Thesis Co-Advisor: Dr. K.V. Lakshmy
   
 * _**Jul, 2017 - May, 2019: M.Tech in Cyber Security**_
-  * TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore
+  * TIFAC-CORE in Cyber Security, School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore
   * CGPA: 8.61/10
   * Thesis Advisor: Dr. M. Sindhu and Dr. K.V. Lakshmy
   * Thesis: Blockchain for the Internet of Vehicles
@@ -54,19 +54,24 @@ Education
 
 Teaching Work Experience
 ======
-* **Sep, 2021 - Present: Assistant Professor**
-  * TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore
+* **Jun, 2023 - Present: Assistant Professor (Senior Grade)**
+  * TIFAC-CORE in Cyber Security, Amrita Vishwa Vidyapeetham, Coimbatore
   * Supervisor: Prof. M. Sethumadhavan
-  * Responsibilities:
-      * 2023 - Present : Mentor - Anokha Web, Multimedia and Documentation Team
-      * 2022 - Present : Class Advisor - 22CYS B.Tech
-      * 2022 - Present : Faculty Advisor - WiCyS Amrita Student Chapter
-      * 2022 - Present : Faculty Coordinator - Kerala Blockchain Academy Innovation Club
-      * 2022 - Present : Founder and Mentor - Blockchain-Research Interest Group
-      * 2022 - Present : Founder and Mentor - KOLECT 
-      * 2022 - Present : Faculty Mentor - CybeReach
-      * 2022 : Dept. Election Coordinator
-      * 2022 : Gokulashtami Coordinator
+      
+* **Sep, 2021 - May, 2023: Assistant Professor**
+  * TIFAC-CORE in Cyber Security, School of Engineering/Computing, Amrita Vishwa Vidyapeetham, Coimbatore
+  * Supervisor: Prof. M. Sethumadhavan
+  
+* **Non-Academic Responsibilities:**
+    * Feb, 2023 - Present : Mentor - Anokha: Web, Multimedia and Documentation Team
+    * Nov, 2022 - Present : Founder and Mentor - KOLECT 
+    * Sep, 2022 - Present : Class Advisor - 22CYS B.Tech
+    * Sep, 2022 - Present : Faculty Advisor - WiCyS Amrita Student Chapter
+    * Apr, 2022 - Present : Faculty Mentor - CybeReach
+    * Apr, 2022 - Present : Faculty Coordinator - Kerala Blockchain Academy Innovation Club
+    * Mar, 2022 - Present : Founder and Mentor - Blockchain-Research Interest Group
+    * 2022, 2023 : Dept. Election Coordinator
+    * 2022 : Gokulashtami Coordinator
 
 Research Work Experience
 ======
