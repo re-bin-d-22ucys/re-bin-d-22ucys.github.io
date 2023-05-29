@@ -22,7 +22,7 @@ Education
   * TIFAC-CORE in Cyber Security, School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore
   * CGPA: 8.61/10
   * Thesis Advisor: Dr. M. Sindhu and Dr. K.V. Lakshmy
-  * Thesis: Blockchain for the Internet of Vehicles
+  * Thesis: [Blockchain for the Internet of Vehicles](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Blockchain-for-the-Internet-of-Vehicles)
   * Responsibilities:
     * 2017 - 2019 : Student Coordinator, Cyber Security
     * 2018 : Co-Head, Anokha TechFest
@@ -31,7 +31,7 @@ Education
   * Kumaraguru College of Technology, Coimbatore
   * CGPA: 8.70/10
   * Project Advisor: Ms. N. Suganthi
-  * Project: An Efficient Key Management in Mobile AdHoc Network (MANET) using Mobile Agents
+  * Project: [An Efficient Key Management in Mobile AdHoc Network (MANET) using Mobile Agents](https://github.com/Kumaraguru-College-of-Tech/An-Efficient-Key-Management-in-MANET-using-Mobile-Agents)
     * Team Member: Mr. Vignesh GM
   * Responsibilities:
     * 2007 - 2011 : Student Coordinator, Dept of IT
@@ -64,13 +64,13 @@ Teaching Work Experience
   
 * **Non-Academic Responsibilities:**
     * Feb, 2023 - Present : Mentor - Anokha: Web, Multimedia and Documentation Team
-    * Nov, 2022 - Present : Founder and Mentor - KOLECT 
+    * Nov, 2022 - Present : Founder and Mentor - [KOLECT ](https://github.com/KOLECT-Amrita)
     * Sep, 2022 - Present : Class Advisor - 22CYS B.Tech
-    * Sep, 2022 - Present : Faculty Advisor - WiCyS Amrita Student Chapter
-    * Apr, 2022 - Present : Faculty Mentor - CybeReach
-    * Apr, 2022 - Present : Faculty Coordinator - Kerala Blockchain Academy Innovation Club
-    * Mar, 2022 - Present : Founder and Mentor - Blockchain-Research Interest Group
-    * 2022, 2023 : Dept. Election Coordinator
+    * Sep, 2022 - Present : Faculty Advisor - [WiCyS Amrita Student Chapter](https://github.com/WiCyS-Amrita)
+    * Apr, 2022 - Present : Faculty Mentor - [CybeReach](https://github.com/CybeReach)
+    * Apr, 2022 - Present : Faculty Coordinator - [Kerala Blockchain Academy Innovation Club](https://b-rig.github.io/Kerala-Blockchain-Academy-Innovation-Club/)
+    * Mar, 2022 - Present : Founder and Mentor - [Blockchain-Research Interest Group](https://github.com/B-RIG)
+    * 2022, 2023 : Department Election Coordinator
     * 2022 : Gokulashtami Coordinator
 
 Research Work Experience
