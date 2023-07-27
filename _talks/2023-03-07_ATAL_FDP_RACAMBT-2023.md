@@ -14,5 +14,9 @@ location: "Amrita Vishwa Vidyapeetham, Coimbatore"
 
 
 <p align="center">
-   <img src="https://github.com/ramagururadhakrishnan/ramagururadhakrishnan.github.io/blob/master/images/RACAMBT-2023_Session-9_Ramaguru_R.png" width="900" />
+   <img src="https://github.com/ramagururadhakrishnan/ramagururadhakrishnan.github.io/blob/master/images/RACAMBT-2023_Session-9_Ramaguru_R.png" width="800" />
+</p>
+
+<p align="center">
+   <img src="https://github.com/ramagururadhakrishnan/ramagururadhakrishnan.github.io/blob/master/images/ATAL_FDP_RACAMBT_2023_RP.png" width="800" />
 </p>
