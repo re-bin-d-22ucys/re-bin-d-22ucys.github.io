@@ -7,7 +7,7 @@ advantage to leverage the benefits of distributed ledgers in storing and securin
 addition to their wider adoption of blockchain technology to serve the citizens by ensuring their privacy and security of personally sensitive.'
 date: 2021-10-21
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-88244-0_6'
-citation: 'Anjum S., Ramaguru R., Sethumadhavan M. (2021) Medical Records Management Using Distributed Ledger and Storage. In: Singh M., Tyagi V., Gupta P.K., Flusser J., Ören T., Sonawane V.R. (eds) Advances in Computing and Data Sciences. ICACDS 2021. Communications in Computer and Information Science, vol 1441. Springer, Cham. https://doi.org/10.1007/978-3-030-88244-0_6'
+citation: 'Anjum S., Ramaguru R., Sethumadhavan M. (2021) Medical Records Management Using Distributed Ledger and Storage. In: Singh M., Tyagi V., Gupta P.K., Flusser J., Ören T., Sonawane V.R. (eds) Advances in Computing and Data Sciences. ICACDS 2021. Communications in Computer and Information Science, vol 1441. Springer, Cham.'
 ---
 In the last decade, blockchain technology has seen adoption to infinite domains, health care sector is one of the major domains where there are a greater opportunity and 
 advantage to leverage the benefits of distributed ledgers in storing and securing patient medical records. The Government of India (GoI) is also very keen on digitization in 
