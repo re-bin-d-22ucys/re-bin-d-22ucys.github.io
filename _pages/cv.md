@@ -63,6 +63,8 @@ Teaching Work Experience
   * Supervisor: Prof. M. Sethumadhavan
   
 * **Non-Academic Responsibilities:**
+    * Oct 2023 - Present: Faculty Advisor - [Amrita - Model United Nations (MUN) Society (A-MUNSO)]()
+    * Jun 2023 - Present: Faculty Advisor - [Amrita Toastmasters Club (ATC)]()
     * Feb, 2023 - Present : Mentor - Anokha: Web, Multimedia and Documentation Team
     * Nov, 2022 - Present : Founder and Mentor - [KOLECT ](https://github.com/KOLECT-Amrita)
     * Sep, 2022 - Present : Class Advisor - 22CYS B.Tech
@@ -71,7 +73,7 @@ Teaching Work Experience
     * Apr, 2022 - Present : Faculty Coordinator - [Kerala Blockchain Academy Innovation Club](https://b-rig.github.io/Kerala-Blockchain-Academy-Innovation-Club/)
     * Mar, 2022 - Present : Founder and Mentor - [Blockchain-Research Interest Group](https://github.com/B-RIG)
     * 2022, 2023 : Department Election Coordinator
-    * 2022 : Gokulashtami Coordinator
+    * 2022, 2023 : Gokulashtami Coordinator
 
 Research Work Experience
 ======
